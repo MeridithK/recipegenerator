@@ -17,6 +17,6 @@ to use them, including a list of ingredients and instructions (or close to it).
 <h3>The Files</h3>
 Recipe Scraper: the code we used to scrape data<br>
 Training network: the code we used to train the network, using 4 128-cell LSTM layers and 8 epochs<br>
-Network: <b>this is the one to play with</b>. We transferred the weights from the trained network to here, and provided example code to prompt a new recipe<br>
+Network: <b>this is the file to play with</b>. We transferred the weights from the trained network to here, and provided example code to prompt a new recipe<br>
 recipesgo1_config, recipesgo1_vocab, recipesgo1_weights: preserves training information<br>
 CombinedText: our training data
