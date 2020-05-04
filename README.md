@@ -1,7 +1,7 @@
 # Recipe Generator
 Need new dinner ideas while self-quarantining? We've got you covered.
 
-We discuss this network, as well as potential improvements, in this<a href="https://help.github.com/en/enterprise/2.14/user/articles/initializing-an-empty-repository-with-a-readme"> blog post</a>.
+We discuss this network, as well as potential improvements, in this<a href="https://medium.com/@artneuralrecipes/creating-a-neural-network-to-generate-recipes-c204e407e61f"> blog post</a>.
 
 <h3>Pre-Recommendations</h3>
 This blog post is generally for readers of all backgrounds; basic Python knowledge and neural network experience are 
